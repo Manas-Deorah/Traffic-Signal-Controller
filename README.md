@@ -1,5 +1,6 @@
 # Traffic-Signal-Controller
-#    State  HWY     CNTRY    
+     State  HWY     CNTRY   
+     
      S0    GREEN    RED
      S1    YELLOW   RED
      S2    RED      RED
